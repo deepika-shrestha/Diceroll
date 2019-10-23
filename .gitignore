@@ -1,0 +1,7 @@
+.gitignore/
+*.docx
+.xml
+.build/
+.manifest.mf
+.nbproject/
+test/
