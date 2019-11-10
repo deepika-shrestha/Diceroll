@@ -15,13 +15,17 @@ The dice can be rolled, which randomizes the numbers showing on the dice.
 
 ### Sample output
 Welcome to the Paradise Roller
+
 Roll the dice? (y/n): y
 Roll 1: 1 & 5
+
 Roll again? (y/n): y
 Roll 2: 1 & 2
+
 Roll again? (y/n): y
 Roll 3: 3 & 4
 Craps!
+
 Roll again? (y/n): y
 Roll 4: 4 & 3
 Craps!
